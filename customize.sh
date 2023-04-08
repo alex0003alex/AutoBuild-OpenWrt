@@ -5,6 +5,7 @@
 # Author: eSirPlayground
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
+src-git openappfilter https://github.com/destan19/OpenAppFilter
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 
 #1. Modify default IP
